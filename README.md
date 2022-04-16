@@ -61,6 +61,16 @@ fmt.Println(srand.New(srand.WithSeed(666)).NewString(12))
 // Must output: uwSttwcqbmIh
 ```
 
+## Test
+
+```bash
+# unit test
+% go test ./test
+
+# fuzzing
+% go test -fuzz Fuzz -fuzztime=10s ./test/
+```
+
 ## License
 
 Apache License 2.0
