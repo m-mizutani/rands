@@ -60,3 +60,7 @@ fmt.Println(srand.New(srand.WithCharSet("ABCDEFG")).NewString())
 fmt.Println(srand.New(srand.WithSeed(666)).NewString(12))
 // Must output: uwSttwcqbmIh
 ```
+
+## License
+
+Apache License 2.0
