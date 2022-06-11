@@ -1,4 +1,4 @@
-# rands
+# rands [![gosec](https://github.com/m-mizutani/rands/actions/workflows/gosec.yml/badge.svg)](https://github.com/m-mizutani/rands/actions/workflows/gosec.yml) [![trivy](https://github.com/m-mizutani/rands/actions/workflows/trivy.yml/badge.svg)](https://github.com/m-mizutani/rands/actions/workflows/trivy.yml) [![lint](https://github.com/m-mizutani/rands/actions/workflows/lint.yml/badge.svg)](https://github.com/m-mizutani/rands/actions/workflows/lint.yml) [![Go Reference](https://pkg.go.dev/badge/github.com/m-mizutani/rands.svg)](https://pkg.go.dev/github.com/m-mizutani/rands)
 
 Random string generator in Go
 
